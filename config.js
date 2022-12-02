@@ -41,9 +41,9 @@ global.tiny = (await import('./lib/tiny.cjs')).default
 global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
 global.gh = "https://github.com/FahriAdison"
 global.yt = "https://bit.ly/Papah-Chan"
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
+global.wm = '                「 Xeyrix BOT あ⁩ 」' 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = 'XeyrixBot'
 function ucapan() {
 	var time = moment.tz('Asia/Jakarta').format('HH')
 	var res
