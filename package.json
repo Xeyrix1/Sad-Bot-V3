@@ -1,5 +1,5 @@
 {
-  "name": "Sad-Bot",
+  "name": "Xeyrix-Bot",
   "version": "6.6.6",
   "description": "Recode WhatsApp Bot",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "keywords": [
     "heko"
   ],
-  "author": "papah-chan",
+  "author": "Xeyrix-chan",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
